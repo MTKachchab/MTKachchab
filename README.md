@@ -17,6 +17,14 @@ Je suis passionné par la sécurité des systèmes, l'automatisation et le déve
 - **Data et Bases de données :** SGBD, Microsoft Power BI, Microsoft Excel
 - **Sécurité et Outils :** Microsoft SC-200, Cryptographie appliquée
 
+## 🛡️ Projet Notable
+
+**Assistant d'Analyse Automatisée (Dépôt Privé)**
+*Outil d'automatisation et d'interaction avec des modèles d'IA, conçu avec une architecture sécurisée.*
+- **Sécurité :** Implémentation d'un mécanisme d'authentification robuste par défi-réponse (Challenge-Response) utilisant le hachage SHA-256 pour contrer les usurpations.
+- **Développement :** Scripting avancé en Python, intégration d'API et packaging d'application.
+- **Ethique (Privacy by Design) :** Code source maintenu volontairement en dépôt privé (Closed Source) afin de prévenir tout usage abusif et garantir le contrôle strict des accès.
+
 ## 📫 Me contacter
 - **Email :** tahammed449@gmail.com
 - **LinkedIn :** [Mohamed Taha KACHCHAB](https://www.linkedin.com/in/mohamed-taha-kachchab-02600331b)
